@@ -1,0 +1,9 @@
+## GERANDO EXECUTAVEEIS COM cx-freeze ##
+
+- Primeiro passo:
+    Instalar o cx freeze, com o seguinte comendo: pip install cx-freeze
+
+- Segundo passo:
+    Entrar no diretorio do seu arquivo Python.
+    Transformar o seu codigo em executavel com o seguinte comando no CMD/Terminal: cxfreeze NOME_DO_ARQUIVO.py
+    

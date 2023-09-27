@@ -1,0 +1,23 @@
+> Intro a HTTP e tipos de requisições diferentes <
+
+> Oque são API's?
+	API's são serviços disponibilizados online para acessar
+	recursos ou funcionalidades de uma aplicação WEB.
+
+> API's possum 4 partes:
+	1. URL BASE -> http://url.base.com
+	2. ENDPOIN -> /api/create -> Oque vem depois do URL BASE
+	3. RECURSO -> Tudo o que é retornado ou enviado a uma API é considerado um recurso(resource em inglês)
+	4. VERBOS HTTP ->
+		GET -> Obter dados existentes
+		POST -> Enviar dados
+		PUT -> Atualizar dados existentes
+		DELETE -> Excluir dados
+
+> Status Code:
+	1xx -> Informação
+	2xx -> Sucesso
+	3xx -> Redirecionamento
+	4xx -> Erro no Cliente
+	5xx -> Erro no Servidor
+	

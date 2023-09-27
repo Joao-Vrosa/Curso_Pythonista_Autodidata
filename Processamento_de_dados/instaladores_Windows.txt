@@ -1,0 +1,7 @@
+## Como criar instaladores no Windows ##
+
+Primeiro passo:
+    Gerar um executavel
+
+Segundo passo:
+    Transformar o executavel em um instalador com o InnoSetup

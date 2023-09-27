@@ -1,0 +1,36 @@
+Ola :), sou uma frase simples
+
+123
+12
+1
+
+######## REGEX ########
+\d -->> digito(numerico)
+... -->> localiza qualquer caractere
+/. -->> encontrar ponto
+[oa] -->> encontrar palavras que comcam com a letra O ou A
+[^E] -->> encontrando qualquer caractere menos o E
+( ) -->> espaco
+\t -->> tab
+\n -->> nova linha
+\r -->> botao enter
+\s -->> para lidar com qualquer tipo de espaco em branco
+^hora de codar$ -->> encontrar algo especifico do inicio ao fi-->>
+#######################
+
+
+asd.
+txt.
+sdf.
+treertetrrer.
+sad.s.asd.
+
+opa
+ola
+ata
+abacaxi
+abacate
+
+(48)998767-5654
+
+hora de codar
